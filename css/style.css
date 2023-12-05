@@ -22,3 +22,38 @@ h1 {
     font-family: Helvetica, sans-serif;
     vertical-align: middle;
 }
+
+/*white rectangle*/
+#rectangle {
+    background-color: white;
+    margin: 80px 320px 1px;
+    width: 800px;
+    border-radius: 5px;
+}
+
+/*buttons*/
+#button-task {
+    border-radius: 6px;
+    width: 80px;
+    height: 34px;
+    height:class="triangle" 34px;
+    background-color: #47adf1;
+    color: white;
+    border-color: #47adf1;
+    border-style: solid;
+}
+
+#button-section {
+    border-radius: 6px;
+    width: 100px;
+    height: 34px;
+    background-color: white;
+    color: #dee0e4;
+    border-color: #dee0e4;
+    border-style: solid;
+}
+
+.container {
+    padding: 15px 60px;
+}
+
