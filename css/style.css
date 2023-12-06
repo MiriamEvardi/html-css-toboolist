@@ -26,9 +26,13 @@ h1 {
 /*white rectangle*/
 #rectangle {
     background-color: white;
-    margin: 80px auto 1px;
+    margin-left: 25%;
+    margin-right: 25%;
     width: 800px;
     border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 1px;
+    
 }
 
 /*buttons*/
@@ -36,7 +40,7 @@ h1 {
     border-radius: 6px;
     width: 80px;
     height: 34px;
-    height:class="triangle" 34px;
+    height: 34px;
     background-color: #47adf1;
     color: white;
     border-color: #47adf1;
@@ -60,8 +64,9 @@ h1 {
 /*to do list*/
 main {
     background-color: white;
-    margin-left: 340px;
-    margin-bottom: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 30px;
     width: 800px;
     border-radius: 3px;
 }
@@ -101,7 +106,7 @@ section {
 }
 
 /*text*/
-div {
+li {
     font-family: Helvetica, sans-serif;
     padding: 5px;
 }
