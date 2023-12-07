@@ -32,7 +32,7 @@ h1 {
     border-radius: 5px;
     margin-top: 30px;
     margin-bottom: 1px;
-    
+
 }
 
 /*buttons*/
@@ -97,7 +97,7 @@ section {
 .done {
     color: #61bea6;
     border: 1px #61bea6 solid;
-    
+
 }
 
 .undone {
@@ -106,6 +106,10 @@ section {
 }
 
 /*text*/
+ul {
+    list-style-type: none;
+}
+
 li {
     font-family: Helvetica, sans-serif;
     padding: 5px;
